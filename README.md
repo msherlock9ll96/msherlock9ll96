@@ -8,7 +8,7 @@
 
 Currently a senior, planning on relocating post-graduation
 
-- Hobbies: CTFs, Learning About Tech, Learning Japanese 
+- Hobbies: Hacking CTFs, Learning About Tech, Learning Japanese 
 - Email: msherlock9ll96@uri.edu
 
 Some writeup repositories are in the works, to be realeased soooon...
