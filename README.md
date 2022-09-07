@@ -1,6 +1,6 @@
-### Visitor Counter
+### Visitor Statistics
 
-![Visitor Counter](https://count.getloli.com/get/@msherlock9ll96 "Visitor Counter")
+![Visitor Statistics](https://count.getloli.com/get/@msherlock9ll96 "Visitor Statistics")
 
 ### msherlock9ll96/Michael Sherlock
 
