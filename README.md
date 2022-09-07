@@ -4,7 +4,7 @@
 
 ### msherlock9ll96/Michael Sherlock
 
-**Welcome to Michel's GitHub | I'm an enjoyer of programming and ethical hacking!**
+**Welcome to Michael's GitHub | I'm an enjoyer of programming and ethical hacking!**
 
 Currently a senior, planning on relocating post-graduation
 
