@@ -11,5 +11,6 @@ Currently a senior, planning on relocating post-graduation
 - Hobbies: CTFs, Learning About Tech, Learning Japanese 
 - Email: msherlock9ll96@uri.edu
 
+Some writeup repositories are in the works, to be realeased soooon...
 
 ![msherlock9ll96's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msherlock9ll96&layout=compact)
