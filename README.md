@@ -1,7 +1,3 @@
-### Visitor Statistics
-
-![Visitor Statistics](https://count.getloli.com/get/@msherlock9ll96 "Visitor Statistics")
-
 ### msherlock9ll96/Michael Sherlock
 
 **Welcome to Michael's GitHub | I'm an enjoyer of programming and ethical hacking!**
